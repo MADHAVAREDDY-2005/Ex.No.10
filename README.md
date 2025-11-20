@@ -8,7 +8,6 @@ To demonstrate how various prompting techniques (query decomposition, decision-m
 This experiment applies these techniques to create a **Case Study on “Automating Emails and Social Media Posts – Enhancing Productivity and Marketing Efficiency through Automation.”**
 
 
-## Case Study on “Automating Emails and Social Media Posts – Enhancing Productivity and Marketing Efficiency through Automation.”
 
 ## **Theory: Understanding Automation and Prompt Engineering**  
 
